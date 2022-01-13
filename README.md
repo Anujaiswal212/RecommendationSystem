@@ -29,3 +29,6 @@ x . y = product (dot) of the vectors ‘x’ and ‘y’.
 ||x|| and ||y|| = length of the two vectors ‘x’ and ‘y’.
 ||x|| * ||y|| = cross product of the two vectors ‘x’ and ‘y’.
 
+You can see the live demo of this project:
+
+https://moviersy.herokuapp.com/
